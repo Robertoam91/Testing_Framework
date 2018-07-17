@@ -1,5 +1,5 @@
 # Testing_Framework
-Simple Test Framework
+Very Simple Test Framework
 
 Requirements:
 - Python 3.0+
